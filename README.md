@@ -1,6 +1,6 @@
 # Proposal_templates
 Southeast University Proposal Template in LaTex.
-东南大学Proposal模板 ;)
+东南大学Proposal模板 :bowtie:
 
 -------------------------------
 ## Logo Images
