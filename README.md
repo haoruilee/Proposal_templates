@@ -3,8 +3,6 @@ Southeast University Proposal Template in LaTex.
 
 东南大学Proposal模板 
 
-If you like this work, please give me one star :blush: 
-
 -------------------------------
 ## Logo Images
 You can shift the logo in .cls files
