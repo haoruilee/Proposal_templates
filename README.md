@@ -10,6 +10,8 @@ You can shift the logo in .cls files
 ## Overleaf
 You can make a cpoy of this project in [overleaf](https://www.overleaf.com/read/bzxmjkdfkccm)
 
+中文模板[overleaf](https://www.overleaf.com/read/kgncdnyrcfkh)
+
 ## Base
 
 Based on [@mas_group's work](https://github.com/mas-group/project-proposal)
